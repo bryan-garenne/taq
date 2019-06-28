@@ -1,0 +1,46 @@
+body {
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    /*background: navajowhite;*/
+}
+
+.cercle {
+    width: 150px;
+    height: 150px;
+    /*border-radius: 10px;*/
+    /*margin: 2px;*/
+}
+
+.plein {
+    background: cornflowerblue;
+}
+.vide {
+    /*background: navajowhite;*/
+    background: white;
+}
+
+div {
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+img {
+    width: 100%;
+    /*border-radius: 10px;*/
+}
+
+p {
+    /*visibility: hidden;*/
+    position: absolute;
+}
+table td {
+    /*margin: 0;*/
+    /*padding: 0;*/
+
+}
